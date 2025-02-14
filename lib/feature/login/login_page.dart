@@ -8,6 +8,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
+
   bool termAndConditionSelected = false;
   bool obscureText = true;
   final _formKey = GlobalKey<FormState>();
@@ -126,6 +127,20 @@ class _LoginPageState extends State<LoginPage> {
                       );
                     }
                   }
+
+                  await Future.delayed(const Duration(microseconds: 900));
+
+                  if (_formKey.currentState!.validate()) {
+                    if (context.mounted) {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(
+                          content: Text('Something went wrong!!!'),
+                          behavior: SnackBarBehavior.floating,
+                        ),
+                      );
+                    }
+                  }
+
                 },
                 style: ElevatedButton.styleFrom(
                   minimumSize: Size(

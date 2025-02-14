@@ -43,8 +43,6 @@ void main() {
 
       expect(find.text('Check your email'), findsNothing);
       expect(find.text('Password must be length 8 letter/digit'), findsNothing);
-
-
     },
   );
 }

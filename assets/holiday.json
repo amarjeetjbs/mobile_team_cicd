@@ -1,0 +1,1493 @@
+{
+  "holidays": [
+    {
+      "date": "2025-01-01",
+      "day": "Wednesday",
+      "name": "New Year's Day",
+      "states": [
+        "Arunachal Pradesh",
+        "Meghalaya",
+        "Manipur",
+        "Mizoram",
+        "Nagaland",
+        "Pondicherry",
+        "Rajasthan",
+        "Sikkim",
+        "Telangana",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-01-02",
+      "day": "Thursday",
+      "name": "New Year Holiday",
+      "states": [
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-01-02",
+      "day": "Thursday",
+      "name": "Mannam Jayanti",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-01-05",
+      "day": "Monday",
+      "name": "Guru Gobind Singh Jayanti",
+      "states": [
+        "Chandigarh",
+        "Haryana",
+        "Jammu and Kashmir",
+        "Odisha",
+        "Punjab",
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-01-11",
+      "day": "Saturday",
+      "name": "Missionary Day",
+      "states": [
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-01-12",
+      "day": "Sunday",
+      "name": "Swami Vivekananda Jayanti",
+      "states": [
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-01-12",
+      "day": "Sunday",
+      "name": "Gaan-Ngai",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-01-14",
+      "day": "Tuesday",
+      "name": "Hazrat Ali Jayanti",
+      "states": [
+        "Uttar Pradesh"
+      ]
+    },
+    {
+      "date": "2025-01-14",
+      "day": "Tuesday",
+      "name": "Makara Sankranti",
+      "states": [
+        "Gujarat",
+        "Karnataka",
+        "Telangana",
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-01-14",
+      "day": "Tuesday",
+      "name": "Pongal",
+      "states": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Pondicherry",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "day": "Wednesday",
+      "name": "Thiruvalluvar Day",
+      "states": [
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "day": "Wednesday",
+      "name": "Magh Bihu",
+      "states": [
+        "Assam"
+      ]
+    },
+    {
+      "date": "2025-01-16",
+      "day": "Thursday",
+      "name": "Kanuma Panduga",
+      "states": [
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "date": "2025-01-16",
+      "day": "Thursday",
+      "name": "Uzhavar Thirunal",
+      "states": [
+        "Pondicherry",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-01-23",
+      "day": "Thursday",
+      "name": "Netaji Subhas Chandra Bose Jayanti",
+      "states": [
+        "Assam",
+        "Jharkhand",
+        "Odisha",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-01-25",
+      "day": "Saturday",
+      "name": "State Day",
+      "states": [
+        "Himachal Pradesh"
+      ]
+    },
+    {
+      "date": "2025-01-26",
+      "day": "Sunday",
+      "name": "Republic Day",
+      "states": [
+        "National"
+      ]
+    },
+    {
+      "date": "2025-01-30",
+      "day": "Thursday",
+      "name": "Sonam Losar",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-02-28",
+      "day": "Friday",
+      "name": "Losar",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-02-02",
+      "day": "Sunday",
+      "name": "Vasant Panchami",
+      "states": [
+        "Haryana",
+        "Odisha",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-02-12",
+      "day": "Wednesday",
+      "name": "Guru Ravidas Jayanti",
+      "states": [
+        "Himachal Pradesh",
+        "Haryana",
+        "Madhya Pradesh",
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-02-15",
+      "day": "Saturday",
+      "name": "Lui-Ngai-Ni",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-02-19",
+      "day": "Wednesday",
+      "name": "Chhatrapati Shivaji Maharaj Jayanti",
+      "states": [
+        "Maharashtra"
+      ]
+    },
+    {
+      "date": "2025-02-20",
+      "day": "Thursday",
+      "name": "State Day",
+      "states": [
+        "Arunachal Pradesh",
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-02-26",
+      "day": "Wednesday",
+      "name": "Maha Shivaratri",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Andaman and Nicobar Islands",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Delhi",
+        "Goa",
+        "Lakshadweep",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Pondicherry",
+        "Sikkim",
+        "Tamil Nadu",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-03-05",
+      "day": "Wednesday",
+      "name": "Panchayatiraj Divas",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "name": "Holi",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Karnataka",
+        "Kerala",
+        "Lakshadweep",
+        "Manipur",
+        "Pondicherry",
+        "Tamil Nadu",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "name": "Doljatra",
+      "states": [
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "name": "Yaosang",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-03-15",
+      "day": "Saturday",
+      "name": "Yaosang 2nd Day",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-03-22",
+      "day": "Saturday",
+      "name": "Bihar Day",
+      "states": [
+        "Bihar"
+      ]
+    },
+    {
+      "date": "2025-03-23",
+      "day": "Sunday",
+      "name": "S. Bhagat Singh's Martyrdom Day",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-03-27",
+      "day": "Thursday",
+      "name": "Shab-i-Qadr",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-03-28",
+      "day": "Friday",
+      "name": "Jumat-ul-Wida",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "name": "Gudi Padwa",
+      "states": [
+        "Maharashtra",
+        "Madhya Pradesh"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "name": "Ugadi",
+      "states": [
+        "Andhra Pradesh",
+        "Daman and Diu",
+        "Dadra and Nagar Haveli",
+        "Goa",
+        "Gujarat",
+        "Jammu and Kashmir",
+        "Karnataka",
+        "Rajasthan",
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "name": "Idul Fitr",
+      "states": [
+        "National"
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "name": "Cheiraoba",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-03-31",
+      "day": "Monday",
+      "name": "Idul Fitr Holiday",
+      "states": [
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "day": "Tuesday",
+      "name": "Odisha Day",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "day": "Tuesday",
+      "name": "Sarhul",
+      "states": [
+        "Jharkhand"
+      ]
+    },
+    {
+      "date": "2025-04-05",
+      "day": "Saturday",
+      "name": "Babu Jagjivan Ram Jayanti",
+      "states": [
+        "Andhra Pradesh",
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-04-06",
+      "day": "Sunday",
+      "name": "Ram Navami",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Goa",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Lakshadweep",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Pondicherry",
+        "Tamil Nadu",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-04-10",
+      "day": "Thursday",
+      "name": "Mahavir Jayanti",
+      "states": [
+        "Chandigarh",
+        "Chhattisgarh",
+        "Daman and Diu",
+        "Delhi",
+        "Dadra and Nagar Haveli",
+        "Gujarat",
+        "Haryana",
+        "Jharkhand",
+        "Karnataka",
+        "Lakshadweep",
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Mizoram",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "name": "Bohag Bihu Holiday",
+      "states": [
+        "Assam"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "name": "Maha Vishuba Sankranti",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "name": "Dr Ambedkar Jayanti",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Andaman and Nicobar Islands",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chandigarh",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Delhi",
+        "Lakshadweep",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Tripura"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "name": "Tamil New Year",
+      "states": [
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "name": "Vishu",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-04-15",
+      "day": "Tuesday",
+      "name": "Himachal Day",
+      "states": [
+        "Himachal Pradesh"
+      ]
+    },
+    {
+      "date": "2025-04-15",
+      "day": "Tuesday",
+      "name": "Bengali New Year",
+      "states": [
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-04-18",
+      "day": "Friday",
+      "name": "Good Friday",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Haryana",
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-04-19",
+      "day": "Saturday",
+      "name": "Easter Saturday",
+      "states": [
+        "Nagaland"
+      ]
+    },
+    {
+      "date": "2025-04-20",
+      "day": "Sunday",
+      "name": "Easter Sunday",
+      "states": [
+        "Kerala",
+        "Nagaland"
+      ]
+    },
+    {
+      "date": "2025-04-20",
+      "day": "Sunday",
+      "name": "Garia Puja",
+      "states": [
+        "Tripura"
+      ]
+    },
+    {
+      "date": "2025-04-21",
+      "day": "Monday",
+      "name": "Vaisakh",
+      "states": [
+        "Jammu and Kashmir",
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-04-29",
+      "day": "Tuesday",
+      "name": "Maharshi Parasuram Jayanti",
+      "states": [
+        "Gujarat",
+        "Himachal Pradesh",
+        "Haryana",
+        "Madhya Pradesh",
+        "Punjab",
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-04-30",
+      "day": "Wednesday",
+      "name": "Basava Jayanti",
+      "states": [
+        "Karnataka"
+      ]
+    },
+    {
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "name": "Maharashtra Day",
+      "states": [
+        "Maharashtra"
+      ]
+    },
+    {
+      "date": "2025-05-08",
+      "day": "Thursday",
+      "name": "Guru Rabindranath Jayanti",
+      "states": [
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-05-09",
+      "day": "Friday",
+      "name": "Maharana Pratap Jayanti",
+      "states": [
+        "Himachal Pradesh",
+        "Haryana",
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "day": "Monday",
+      "name": "Buddha Purnima",
+      "states": [
+        "Andaman and Nicobar Islands",
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Chandigarh",
+        "Delhi",
+        "Himachal Pradesh",
+        "Jharkhand",
+        "Jammu and Kashmir",
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Mizoram",
+        "Odisha",
+        "Tripura",
+        "Uttarakhand",
+        "Uttar Pradesh",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "day": "Friday",
+      "name": "State Day",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-05-24",
+      "day": "Saturday",
+      "name": "Kazi Nazrul Islam Jayanti",
+      "states": [
+        "Tripura"
+      ]
+    },
+    {
+      "date": "2025-05-30",
+      "day": "Friday",
+      "name": "Sri Guru Arjun Dev Ji's Martyrdom Day",
+      "states": [
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "day": "Friday",
+      "name": "Bakrid / Eid al Adha",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Arunachal Pradesh",
+        "Chandigarh",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-06-07",
+      "day": "Saturday",
+      "name": "Bakrid / Eid al Adha Holiday",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-06-11",
+      "day": "Wednesday",
+      "name": "Sant Guru Kabir Jayanti",
+      "states": [
+        "Chhattisgarh",
+        "Himachal Pradesh",
+        "Haryana",
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "day": "Thursday",
+      "name": "Guru Hargobind Ji's Birthday",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-06-14",
+      "day": "Saturday",
+      "name": "Pahili Raja",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-06-14",
+      "day": "Saturday",
+      "name": "Raja Sankranti",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-06-15",
+      "day": "Sunday",
+      "name": "YMA Day",
+      "states": [
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "day": "Friday",
+      "name": "Ratha Yathra",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-06-29",
+      "day": "Sunday",
+      "name": "Bonalu",
+      "states": [
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "day": "Monday",
+      "name": "Remna Ni",
+      "states": [
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "day": "Sunday",
+      "name": "MHIP Day",
+      "states": [
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "day": "Friday",
+      "name": "Behdeinkhlam Festival",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "day": "Sunday",
+      "name": "Bhanu Jayanti",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "day": "Sunday",
+      "name": "Martyrs' Day",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "day": "Thursday",
+      "name": "U Tirot Sing Day",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "day": "Thursday",
+      "name": "Karkidaka Vavu Bali",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "day": "Sunday",
+      "name": "Haryali Teej",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "day": "Friday",
+      "name": "Muharram",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Chhattisgarh",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Goa",
+        "Haryana",
+        "Kerala",
+        "Manipur",
+        "Meghalaya",
+        "Nagaland",
+        "Pondicherry",
+        "Punjab",
+        "Sikkim",
+        "Uttarakhand",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "day": "Thursday",
+      "name": "Shaheed Udham Singh's Martyrdom Day",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "day": "Friday",
+      "name": "Tendong Lho Rum Faat",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "day": "Friday",
+      "name": "Jhulan Purnima",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "day": "Saturday",
+      "name": "Raksha Bandhan",
+      "states": [
+        "Chhattisgarh",
+        "Daman and Diu",
+        "Gujarat",
+        "Haryana",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttarakhand",
+        "Uttar Pradesh"
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "day": "Wednesday",
+      "name": "Patriots Day",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "day": "Friday",
+      "name": "Independence Day",
+      "states": [
+        "National"
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "day": "Friday",
+      "name": "Parsi New Year",
+      "states": [
+        "Daman and Diu",
+        "Dadra and Nagar Haveli",
+        "Gujarat",
+        "Maharashtra"
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "day": "Saturday",
+      "name": "De Jure Transfer Day",
+      "states": [
+        "Pondicherry"
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "day": "Saturday",
+      "name": "Janmashtami",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Lakshadweep",
+        "Maharashtra",
+        "Mizoram",
+        "Pondicherry",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "day": "Thursday",
+      "name": "Tithi of Srimanta Shankardev",
+      "states": [
+        "Assam"
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "day": "Thursday",
+      "name": "Hartalika Teej",
+      "states": [
+        "Chhattisgarh",
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-08-26",
+      "day": "Tuesday",
+      "name": "Ganesh Chaturthi",
+      "states": [
+        "Andhra Pradesh",
+        "Daman and Diu",
+        "Dadra and Nagar Haveli",
+        "Goa",
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Pondicherry",
+        "Telangana",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "day": "Wednesday",
+      "name": "Ganesh Chaturthi Holiday",
+      "states": [
+        "Goa"
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "day": "Thursday",
+      "name": "Nuakhai",
+      "states": [
+        "Odisha"
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "day": "Tuesday",
+      "name": "Ramdev Jayanti",
+      "states": [
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "day": "Tuesday",
+      "name": "Teja Dashmi",
+      "states": [
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "day": "Thursday",
+      "name": "Eid e Milad",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Andaman and Nicobar Islands",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Goa",
+        "Haryana",
+        "Himachal Pradesh",
+        "Meghalaya",
+        "Punjab",
+        "Sikkim",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "day": "Thursday",
+      "name": "First Onam",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "day": "Saturday",
+      "name": "Indra Jatra",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-09-07",
+      "day": "Sunday",
+      "name": "Sree Narayana Guru Jayanti",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "day": "Friday",
+      "name": "Friday Following Eid e Milad",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-09-21",
+      "day": "Sunday",
+      "name": "Sree Narayana Guru Samadhi",
+      "states": [
+        "Kerala"
+      ]
+    },
+    {
+      "date": "2025-09-21",
+      "day": "Sunday",
+      "name": "Mahalaya Amavasye",
+      "states": [
+        "Karnataka",
+        "Odisha",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "day": "Monday",
+      "name": "First Day of Bathukamma",
+      "states": [
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "day": "Monday",
+      "name": "Ghatasthapana",
+      "states": [
+        "Rajasthan"
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "day": "Monday",
+      "name": "Maharaja Agrasen Jayanti",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-09-23",
+      "day": "Tuesday",
+      "name": "Heroes Martyrdom Day",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "day": "Monday",
+      "name": "Maha Saptami",
+      "states": [
+        "Meghalaya",
+        "Odisha",
+        "Sikkim",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "day": "Tuesday",
+      "name": "Maha Ashtami",
+      "states": [
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Jharkhand",
+        "Meghalaya",
+        "Manipur",
+        "Odisha",
+        "Rajasthan",
+        "Sikkim",
+        "Telangana",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "day": "Wednesday",
+      "name": "Maha Navami",
+      "states": [
+        "Assam",
+        "Bihar",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Meghalaya",
+        "Nagaland",
+        "Odisha",
+        "Pondicherry",
+        "Sikkim",
+        "Tamil Nadu",
+        "Tripura",
+        "Uttar Pradesh",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "day": "Thursday",
+      "name": "Gandhi Jayanti",
+      "states": [
+        "National"
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "day": "Thursday",
+      "name": "Vijaya Dashami",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Chandigarh",
+        "Dadra and Nagar Haveli",
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "day": "Sunday",
+      "name": "Janmostav of Srimanta Shankardev",
+      "states": [
+        "Assam"
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "day": "Tuesday",
+      "name": "Maharishi Valmiki Jayanti",
+      "states": [
+        "Himachal Pradesh",
+        "Haryana",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "day": "Saturday",
+      "name": "Kati Bihu",
+      "states": [
+        "Assam"
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "day": "Monday",
+      "name": "Lakshmi Puja",
+      "states": [
+        "Odisha",
+        "Tripura",
+        "West Bengal"
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "day": "Monday",
+      "name": "Deepavali",
+      "states": [
+        "Andhra Pradesh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Pondicherry",
+        "Telangana",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "day": "Tuesday",
+      "name": "Diwali",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Andhra Pradesh",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Pondicherry",
+        "Tamil Nadu",
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "day": "Wednesday",
+      "name": "Bhai Dooj",
+      "states": [
+        "Gujarat",
+        "Rajasthan",
+        "Sikkim",
+        "Uttarakhand",
+        "Uttar Pradesh"
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "day": "Tuesday",
+      "name": "Chhath Puja",
+      "states": [
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Jharkhand"
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "day": "Friday",
+      "name": "Sardar Vallabhbhai Patel Jayanti",
+      "states": [
+        "Gujarat"
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "day": "Saturday",
+      "name": "Haryana Day",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "day": "Saturday",
+      "name": "Kannada Rajyothsava",
+      "states": [
+        "Karnataka"
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "day": "Saturday",
+      "name": "Kut",
+      "states": [
+        "Manipur"
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "day": "Saturday",
+      "name": "Puducherry Liberation Day",
+      "states": [
+        "Pondicherry"
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "day": "Tuesday",
+      "name": "Guru Nanak Jayanti",
+      "states": [
+        "National"
+      ],
+      "exception_states": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Goa",
+        "Karnataka",
+        "Kerala",
+        "Manipur",
+        "Meghalaya",
+        "Odisha",
+        "Pondicherry",
+        "Sikkim",
+        "Tamil Nadu",
+        "Tripura"
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "day": "Wednesday",
+      "name": "Karthika Purnima",
+      "states": [
+        "Odisha",
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "day": "Saturday",
+      "name": "Kanakadasa Jayanti",
+      "states": [
+        "Karnataka"
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "day": "Tuesday",
+      "name": "Lhabab Duchen",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-11-23",
+      "day": "Sunday",
+      "name": "Seng Kut Snem",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-11-24",
+      "day": "Monday",
+      "name": "Sri Guru Teg Bahadur Ji's Martyrdom Day",
+      "states": [
+        "Punjab"
+      ]
+    },
+    {
+      "date": "2025-12-01",
+      "day": "Monday",
+      "name": "Indigenous Faith Day",
+      "states": [
+        "Arunachal Pradesh"
+      ]
+    },
+    {
+      "date": "2025-12-03",
+      "day": "Thursday",
+      "name": "Feast of St Francis Xavier",
+      "states": [
+        "Goa"
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "day": "Friday",
+      "name": "Sheikh Muhammad Abdullah Jayanti",
+      "states": [
+        "Jammu and Kashmir"
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "day": "Friday",
+      "name": "Pa Togan Nengminza Sangma",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "day": "Thursday",
+      "name": "Death Anniversary of U SoSo Tham",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "day": "Thursday",
+      "name": "Guru Ghasidas Jayanti",
+      "states": [
+        "Chhattisgarh"
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "day": "Friday",
+      "name": "Liberation Day",
+      "states": [
+        "Daman and Diu",
+        "Goa"
+      ]
+    },
+    {
+      "date": "2025-12-24",
+      "day": "Wednesday",
+      "name": "Christmas Holiday",
+      "states": [
+        "Meghalaya",
+        "Mizoram"
+      ]
+    },
+    {
+      "date": "2025-12-25",
+      "day": "Thursday",
+      "name": "Christmas Day",
+      "states": [
+        "National"
+      ]
+    },
+    {
+      "date": "2025-12-26",
+      "day": "Friday",
+      "name": "Christmas Holiday",
+      "states": [
+        "Meghalaya",
+        "Telangana"
+      ]
+    },
+    {
+      "date": "2025-12-26",
+      "day": "Friday",
+      "name": "Shaheed Udham Singh Jayanti",
+      "states": [
+        "Haryana"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "day": "Tuesday",
+      "name": "Tamu Losar",
+      "states": [
+        "Sikkim"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "day": "Tuesday",
+      "name": "U Kiang Nangbah",
+      "states": [
+        "Meghalaya"
+      ]
+    },
+    {
+      "date": "2025-12-31",
+      "day": "Wednesday",
+      "name": "New Year's Eve",
+      "states": [
+        "Manipur",
+        "Mizoram"
+      ]
+    }
+  ]
+}

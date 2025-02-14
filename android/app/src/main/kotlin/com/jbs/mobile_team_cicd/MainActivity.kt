@@ -1,4 +1,4 @@
-package com.example.mobile_team_cicd
+package com.jbs.mobile_team_cicd
 
 import io.flutter.embedding.android.FlutterActivity
 
